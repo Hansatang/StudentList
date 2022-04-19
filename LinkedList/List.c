@@ -19,6 +19,7 @@ LinkedList_t create() {
 	if (NULL == _newList) {
 		return NULL;
 	}
+	//yay
 	_newList->root = NULL;
 	return _newList;
 };
